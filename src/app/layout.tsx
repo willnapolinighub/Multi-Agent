@@ -14,24 +14,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
+  title: "Multi-Agent System",
+  description: "A hierarchical multi-agent framework with visual builder for creating, orchestrating, and deploying AI agent systems",
+  keywords: ["ai", "agents", "multi-agent", "orchestration", "llm", "openai", "ollama", "visual-builder", "typescript", "nextjs"],
+  authors: [{ name: "Multi-Agent Team" }],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "/logo.svg", // This points to your logo in the public folder
   },
   openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+    title: "Multi-Agent System",
+    description: "A hierarchical multi-agent framework with visual builder",
+    url: "https://your-domain.com",
+    siteName: "Multi-Agent System",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
+    title: "Multi-Agent System",
+    description: "A hierarchical multi-agent framework with visual builder",
   },
 };
 
