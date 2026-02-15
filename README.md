@@ -385,4 +385,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ by the community. Powered by AI.
+Built with ❤️ by Will Napolini & Community. Powered by AI.
